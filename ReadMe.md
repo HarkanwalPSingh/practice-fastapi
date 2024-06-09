@@ -1,7 +1,12 @@
 # Mock Book Collection
 Create a REST API for managing a book collection. 
 The API should support basic CRUD (Create, Read, Update, Delete) 
-operations for books. 
+operations for books.
+
+## How to run
+```shell
+docker compose up --build
+```
 
 ## Functional Requirements
 - Create User
