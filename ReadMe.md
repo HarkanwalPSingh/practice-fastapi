@@ -8,6 +8,8 @@ operations for books.
 docker compose up --build
 ```
 
+Visit [localhost docs](http://localhost:8000/docs)
+
 ## Functional Requirements
 - Create User
 - Fetch User
